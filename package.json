@@ -1,0 +1,24 @@
+{
+  "name": "coopwelcomesite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connormckinnon93/coopWelcomeSite.git"
+  },
+  "author": "Connor McKinnon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connormckinnon93/coopWelcomeSite/issues"
+  },
+  "homepage": "https://github.com/connormckinnon93/coopWelcomeSite#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1",
+    "gulp": "^3.9.1"
+  }
+}
