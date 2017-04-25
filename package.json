@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/connormckinnon93/coopWelcomeSite#readme",
   "devDependencies": {
+    "browser-sync": "^2.18.8",
     "eslint": "^3.19.0",
     "eslint-config-google": "^0.7.1",
     "gulp": "^3.9.1"
