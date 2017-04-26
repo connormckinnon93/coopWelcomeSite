@@ -20,6 +20,10 @@
     "browser-sync": "^2.18.8",
     "eslint": "^3.19.0",
     "eslint-config-google": "^0.7.1",
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "less-plugin-autoprefix": "^1.5.1",
+    "path": "^0.12.7"
   }
 }
